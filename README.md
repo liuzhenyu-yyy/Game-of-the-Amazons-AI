@@ -12,6 +12,9 @@
  
  The final score of Amazons Lab depends on the complexity，stability，interface of the software, and more importantly, **the performance of each AI**, as defined by the rankings in the ladder tournament at [botzone](https://www.botzone.org.cn/)
  
+ ## Demonstrations:
+ <img align="center" src="https://raw.githubusercontent.com/liuzhenyu-yyy/Game-of-the-Amazons-AI/main/assets/demo.png" />    
+
 ## Scoring function
  Scoring function defines the "fitness" of each piece move. Here I made profound optimizations in the scoring function. 
  
