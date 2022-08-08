@@ -1,5 +1,6 @@
 # Game of the Amazons AI
  A simple DFS-based bot for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons), with optimized scoring function.
+ To perform game, just run main.exe.
 
 ## Description
  This is my code for the Amazons Lab in "Introduction to Computation (A)"  Course of [Prof. Yafei Dai](https://cs.pku.edu.cn/info/1182/1515.htm) in the automn semaster of 2018. The Amazons Lab required us to develop a c/c++ program for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons) with following features:
